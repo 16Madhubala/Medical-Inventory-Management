@@ -1,7 +1,7 @@
 Here you will find the pdf files about the Ideation Phase consists of
 
-1.Problem statement
+1. Brainstorming
 
-2.Empathy Map Canvas
+2.Problem statement 
 
-3.Brainstorming
+3.Empathy Map Canvas
